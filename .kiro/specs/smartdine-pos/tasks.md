@@ -41,7 +41,8 @@
 
 
 
-  - [-] 3.1 Create Order model and basic CRUD operations
+  - [ ] 3.1 Create Order model and basic CRUD operations
+
 
     - Design Order schema with items, pricing, and status
     - Implement order creation endpoint
